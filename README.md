@@ -36,6 +36,13 @@ The dashboard provides an executive-level view, while the notebook explains the 
 
 🔗 https://app.powerbi.com/view?r=eyJrIjoiNmFmYzQ2MWItNzQxZS00MDYyLTk3ODktY2Y2Yjg3ZjU3NTBlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9
 
+## 📊 Power BI Dashboard – Executive View
+
+Below is a snapshot of the **PMKVY Performance Dashboard**, designed for one-glance monitoring and decision support.
+
+![PMKVY Power BI Dashboard Preview](Dashboard_Preview.jpg)
+
+
 ---
 
 ### 📘 Python Analysis – Google Colab Notebook
